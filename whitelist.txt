@@ -8,3 +8,7 @@ e103d4b7-8f37-4326-9bc9-c23b94860c75      | byolie
 e949cad8-cd4d-4b67-b342-4b30ba179dce      |Thunderbrand
 2e0a24cf-4c77-4507-95fc-2a30ab9b1ec6      | FTW-Bot
 129f4baf-1d8f-4ff9-af40-8b01e177786c      | mou_mann
+42afd26a-703a-4c26-866c-41e68cd13358      | Clustergames_CBE
+29754503-9952-423e-bbf8-211de0a77e1c      | THB_Black
+8778ca55-5693-435f-9120-d6671d15ab2c      | HighLikeTheSky16
+ecec3394-3e89-4d5a-b172-706956e46475      | THB_Black20
